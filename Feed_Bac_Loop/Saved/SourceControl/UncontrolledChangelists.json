@@ -5,10 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Repos/horse-gamjam/Feed_Bac_Loop/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"G:/Repos/horse-gamjam/Feed_Bac_Loop/Content/Items/BP_BaseInteractable.uasset",
+				"G:/Repos/horse-gamjam/Feed_Bac_Loop/Content/Items/WB_TEMP.uasset",
+				"G:/Repos/horse-gamjam/Feed_Bac_Loop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"G:/Repos/horse-gamjam/Feed_Bac_Loop/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/RF/WO9A29DCBJSAYPYASZJYUP.uasset",
+				"G:/Repos/horse-gamjam/Feed_Bac_Loop/Content/Items/WB_TEMP1.uasset",
+				"G:/Repos/horse-gamjam/Feed_Bac_Loop/Content/Items/BP_TempItem.uasset",
+				"G:/Repos/horse-gamjam/Feed_Bac_Loop/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/BL/86U3LBNW0RD0CQGFSI9G4H.uasset",
 				"C:/Users/skipp/Desktop/FeedBacLoop/horse-gamjam/Feed_Bac_Loop/Content/FirstPerson/Headbob/Idle.uasset",
 				"C:/Users/skipp/Desktop/FeedBacLoop/horse-gamjam/Feed_Bac_Loop/Content/FirstPerson/Headbob/Walk.uasset",
-				"C:/Users/skipp/Desktop/FeedBacLoop/horse-gamjam/Feed_Bac_Loop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"G:/Repos/horse-gamjam/Feed_Bac_Loop/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/skipp/Desktop/FeedBacLoop/horse-gamjam/Feed_Bac_Loop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
